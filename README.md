@@ -16,7 +16,7 @@ A mini-search engine which uses the github api to search for open source reposit
 
 ## Usage
 
-[Git It Done!](/assets/images/screenshot.png)
+![Git It Done!](/assets/images/screenshot.png)
 
 * Type in a username to be given a list of that users' repositories, with an icon indicating if that repo has any open issues (if not, a blue check will appear).
 * Click on a repository to be taken to a list of the open issues, which you can click to be taken to the respecitve github page.
